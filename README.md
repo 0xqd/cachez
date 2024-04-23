@@ -3,9 +3,9 @@ Cachez is a novel caching solution designed to deliver exceptional performance c
 
 # Key benefits of Cachez:
 
-Efficiency: Achieves a lower miss ratio, resulting in faster data retrieval.
-Scalability: Employs a lockless architecture with lightweight locking mechanisms and high-throughput data structures, enabling seamless handling of increased workloads.
-Inspiration: Cachez draws heavily on the innovative work done by Pingora at Cloudflare.
+🎯 Efficiency: Achieves a lower miss ratio, resulting in faster data retrieval.
+
+📈 Scalability: Employs a lockless architecture with lightweight locking mechanisms and high-throughput data structures.
 
 # System
 
