@@ -1,4 +1,4 @@
-# Cachez: A High-Performance Caching Solution
+# Cachez: A High-Performance Caching
 Cachez is a novel caching solution designed to deliver exceptional performance compared to traditional LRU-based caches based on s3fifos and tinylfu.
 
 # Key benefits of Cachez:
